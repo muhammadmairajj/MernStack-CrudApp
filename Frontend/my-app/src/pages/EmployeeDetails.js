@@ -66,7 +66,7 @@ function EmployeeDetail() {
 
   return (
     <div className="container">
-      <h4 className="mb-3 text-center mt-4">CRUD Operation in MERN</h4>
+      <h4 className="mb-3 text-center mt-4">CRUD Operation in PERN</h4>
       <div className="row mt-3">
         <div className="col-sm-4">
           <div

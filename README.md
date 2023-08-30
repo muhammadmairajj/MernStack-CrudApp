@@ -8,4 +8,4 @@
 ##### npm start
 
 ### DEMO VIDEO
-https://github.com/muhammadmairajj/MernStack-CrudApp/issues/1#issue-1873534828
+https://github.com/muhammadmairajj/MernStack-CrudApp/assets/89729024/9f1b536a-f4ce-4c44-b75e-c4f93a37da0f

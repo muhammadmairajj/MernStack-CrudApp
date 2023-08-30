@@ -1,2 +1,8 @@
 # MernStack-CrudApp
 ## MERN STACK CRUD APP using REACTJS for FRONTEND and NODEJS AND POSTGRES DATABASE for BACKEND
+
+### BACKEND RUN COMMAND
+##### npm run dev
+
+### FRONTEND RUN COMMAND
+##### npm start
